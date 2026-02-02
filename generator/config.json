@@ -1,0 +1,204 @@
+{
+    "themes": [
+        {
+            "id": "light",
+            "background": "#ffffff",
+            "foreground": "#000000",
+            "border": "#eeeeee"
+        },
+        {
+            "id": "dark",
+            "background": "#292A2D",
+            "foreground": "#ffffff",
+            "border": "#606366"
+        }
+    ],
+    "badges": [
+        {
+            "id": "java",
+            "color": "#1565C0",
+            "displayName": "Java"
+        },
+        {
+            "id": "kotlin",
+            "color": "#557BDE",
+            "displayName": "Kotlin"
+        },
+        {
+            "id": "dart",
+            "color": "#29B6F6",
+            "displayName": "Dart"
+        },
+        {
+            "id": "javascript",
+            "color": "#F7DF1E",
+            "displayName": "JavaScript"
+        },
+        {
+            "id": "typescript",
+            "color": "#3178C6",
+            "displayName": "TypeScript"
+        },
+        {
+            "id": "html",
+            "color": "#E44D26",
+            "displayName": "HTML"
+        },
+        {
+            "id": "css",
+            "color": "#2062AF",
+            "displayName": "CSS"
+        },
+        {
+            "id": "python",
+            "color": "#35668F",
+            "displayName": "Python"
+        },
+        {
+            "id": "swift",
+            "color": "#F05138",
+            "displayName": "Swift"
+        },
+        {
+            "id": "swift_ui",
+            "color": "#1E88E5",
+            "displayName": "Swift UI"
+        },
+        {
+            "id": "go",
+            "color": "#00ACD7",
+            "displayName": "Go lang"
+        },
+        {
+            "id": "node",
+            "color": "#6CC04A",
+            "displayName": "Node"
+        },
+        {
+            "id": "mysql",
+            "color": "#0191FF",
+            "displayName": "MySQL"
+        },
+        {
+            "id": "postgresql",
+            "color": "#336791",
+            "displayName": "PostgreSQL",
+            "anchorShift": {"y": 0.05}
+        },
+        {
+            "id": "redis",
+            "color": "#DC382C",
+            "displayName": "Redis"
+        },
+        {
+            "id": "docker",
+            "color": "#2396ED",
+            "displayName": "Docker",
+            "anchorShift": {"x": 0.05}
+        },
+        {
+            "id": "liquibase",
+            "color": "#FF3C00",
+            "displayName": "Liquibase"
+        },
+        {
+            "id": "flutter",
+            "color": "#54C5F8",
+            "displayName": "Flutter",
+            "anchorShift": {"x": -0.075}
+        },
+        {
+            "id": "jetpack_compose",
+            "color": "#3DDC84",
+            "displayName": "Jetpack Compose"
+        },
+        {
+            "id": "ui_kit",
+            "color": "#2396F3",
+            "displayName": "UI Kit"
+        },
+        {
+            "id": "react",
+            "color": "#61DAFB",
+            "displayName": "React"
+        },
+        {
+            "id": "svelte",
+            "color": "#FF3E00",
+            "displayName": "Svelte"
+        },
+        {
+            "id": "vuejs",
+            "color": "#41B883",
+            "displayName": "Vue.js",
+            "anchorShift": {"y": 0.075}
+        },
+        {
+            "id": "mongodb",
+            "color": "#10AA50",
+            "displayName": "MongoDB"
+        },
+        {
+            "id": "spring",
+            "color": "#5FB832",
+            "displayName": "Spring"
+        },
+        {
+            "id": "git",
+            "color": "#F05133",
+            "displayName": "Git"
+        },
+        {
+            "id": "github",
+            "color": "#1B1F23",
+            "displayName": "GitHub"
+        },
+        {
+            "id": "firebase",
+            "color": "#DD2C00",
+            "displayName": "Firebase"
+        },
+        {
+            "id": "nextjs",
+            "color": "#000000",
+            "displayName": "Next.js"
+        },
+        {
+            "id": "nuxtjs",
+            "color": "#00DC82",
+            "displayName": "Nuxt.js",
+            "anchorShift": {"y": -0.1}
+        },
+        {
+            "id": "angular",
+            "color": "#E23237",
+            "displayName": "Angular"
+        },
+        {
+            "id": "jquery",
+            "color": "#21609B",
+            "displayName": "Jquery"
+        },
+        {
+            "id": "tailwind",
+            "color": "#38BDF8",
+            "displayName": "tailwind"
+        },
+        {
+            "id": "vitejs",
+            "color": "#8180FE",
+            "displayName": "Vite.js",
+            "anchorShift": {"y": 0.05}
+        },
+        {
+            "id": "webpack",
+            "color": "#8ED6FB",
+            "displayName": "Webpack"
+        },
+        {
+            "id": "rollup",
+            "color": "#FF3333",
+            "displayName": "Rollup"
+        }
+    ]
+}

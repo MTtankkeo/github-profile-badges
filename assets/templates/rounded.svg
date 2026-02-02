@@ -1,0 +1,5 @@
+<svg viewBox="0 0 {OUTER_WIDTH} 25" width="{OUTER_WIDTH}" height="25" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="{INNER_WIDTH}" height="24" rx="12" fill="{BACKGROUND}" stroke="{BORDER}"/>
+{SVG}
+{TEXT}
+</svg>
