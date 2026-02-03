@@ -199,6 +199,41 @@
             "id": "rollup",
             "color": "#FF3333",
             "displayName": "Rollup"
+        },
+        {
+            "id": "nestjs",
+            "color": "#E0234E",
+            "displayName": "NestJS"
+        },
+        {
+            "id": "prisma",
+            "color": "#0C344B",
+            "displayName": "Prisma"
+        },
+        {
+            "id": "jest",
+            "color": "#99425B",
+            "displayName": "Jest"
+        },
+        {
+            "id": "swagger",
+            "color": "#49A32B",
+            "displayName": "Swagger"
+        },
+        {
+            "id": "elasticsearch",
+            "color": "#07A5DE",
+            "displayName": "Elasticsearch"
+        },
+        {
+            "id": "kubernetes",
+            "color": "#326ce5",
+            "displayName": "Kubernetes"
+        },
+        {
+            "id": "aws",
+            "color": "#FF9900",
+            "displayName": "AWS"
         }
     ]
 }
