@@ -234,6 +234,16 @@
             "id": "aws",
             "color": "#FF9900",
             "displayName": "AWS"
+        },
+        {
+            "id": "c",
+            "color": "#0060a8",
+            "displayName": "C"
+        },
+        {
+            "id": "cpp",
+            "color": "#0060a8",
+            "displayName": "C++"
         }
     ]
 }
