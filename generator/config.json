@@ -249,6 +249,11 @@
             "id": "csharp",
             "color": "#4e00c7",
             "displayName": "C#"
+        },
+        {
+            "id": "rust",
+            "color": "#CE422B",
+            "displayName": "Rust"
         }
     ]
 }
