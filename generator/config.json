@@ -244,6 +244,11 @@
             "id": "cpp",
             "color": "#0060a8",
             "displayName": "C++"
+        },
+        {
+            "id": "csharp",
+            "color": "#4e00c7",
+            "displayName": "C#"
         }
     ]
 }
