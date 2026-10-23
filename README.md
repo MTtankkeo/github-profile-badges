@@ -1,3 +1,5 @@
+<img width="1983" height="700" alt="banner" src="https://github.com/user-attachments/assets/b4de4c81-5d68-4872-b88c-0038a443e59d" />
+
 # Introduction
 
 Beautiful and easy-to-use tech stack badges for your GitHub profile. An automated vector badge generator helps you easily produce various theme-based designs. Contribute new badges, create your own styles, and grow the ecosystem together.
